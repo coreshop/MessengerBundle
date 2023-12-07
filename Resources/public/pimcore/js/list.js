@@ -230,14 +230,14 @@ coreshop.messenger.list = Class.create({
                         var record = grid.getStore().getAt(rowIndex);
 
                         new Ext.Window({
-                            width: 500,
+                            width: 600,
                             height: 550,
                             title: t('info'),
                             modal: true,
                             layout: "fit",
                             items: [{
                                 padding: 10,
-                                html: record.data.serialized
+                                html: '<pre>' + record.data.serialized + '</pre>'
                             }]
                         }).show();
                     }
@@ -378,14 +378,14 @@ coreshop.messenger.list = Class.create({
                         var record = grid.getStore().getAt(rowIndex);
 
                         new Ext.Window({
-                            width: 500,
+                            width: 600,
                             height: 550,
                             title: t('info'),
                             modal: true,
                             layout: "fit",
                             items: [{
                                 padding: 10,
-                                html: record.data.serialized
+                                html: '<pre>' + record.data.serialized + '</pre>'
                             }]
                         }).show();
                     }
