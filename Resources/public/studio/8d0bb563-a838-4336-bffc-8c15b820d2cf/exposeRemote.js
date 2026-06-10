@@ -7,7 +7,7 @@
         window.alternativePluginExportPaths = {}
       }
 
-      window.pluginRemotes.coreshopmessenger = "/bundles/coreshopmessenger/studio/86017823-fed8-4f9b-9c92-082d51a39d1b/static/js/remoteEntry.js"
+      window.pluginRemotes.coreshopmessenger = "/bundles/coreshopmessenger/studio/8d0bb563-a838-4336-bffc-8c15b820d2cf/static/js/remoteEntry.js"
 
       
     
