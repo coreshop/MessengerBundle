@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopmessenger",
-    "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopmessenger/studio/51a0b6d9-3e34-4500-8084-ea0ab893158c/"
+    "pluginVersion": "2.5.1",
+    "publicPath": "/bundles/coreshopmessenger/studio/317a61ac-2598-47e6-80d4-2d369dd7c6c2/"
   },
   "shared": [
     {
@@ -34,8 +34,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/460.dd66f6b0.js",
-            "static/js/async/79.4c33ead8.js"
+            "static/js/async/460.600a3125.js",
+            "static/js/async/79.405d9073.js"
           ]
         },
         "css": {
@@ -55,7 +55,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/920.aeeb7f40.js"
+            "static/js/async/920.6e5f4ec4.js"
           ]
         },
         "css": {
@@ -75,7 +75,7 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/63.71684cd1.js"
+            "static/js/async/63.9e39d82e.js"
           ]
         },
         "css": {
@@ -95,8 +95,8 @@
         "js": {
           "async": [],
           "sync": [
-            "static/js/async/695.7e08ee82.js",
-            "static/js/async/76.a8cdb2a6.js"
+            "static/js/async/695.f3951c47.js",
+            "static/js/async/76.9b0a4664.js"
           ]
         },
         "css": {
@@ -161,10 +161,10 @@
         "js": {
           "sync": [
             "static/js/174.10c3b224.js",
-            "static/js/691.b4c2615d.js",
-            "static/js/async/782.fffcc3fb.js",
-            "static/js/134.940fb1ca.js",
-            "static/js/async/__federation_expose_default_export.db0ddc3e.js"
+            "static/js/691.78dcd107.js",
+            "static/js/async/782.4bab03d8.js",
+            "static/js/424.3705fa11.js",
+            "static/js/async/__federation_expose_default_export.8e95337d.js"
           ],
           "async": []
         },
