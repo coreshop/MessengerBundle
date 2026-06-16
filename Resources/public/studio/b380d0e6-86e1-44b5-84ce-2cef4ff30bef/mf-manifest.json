@@ -20,8 +20,8 @@
       "api": ""
     },
     "globalName": "coreshopmessenger",
-    "pluginVersion": "2.4.0",
-    "publicPath": "/bundles/coreshopmessenger/studio/9dbbb34f-066e-428d-adf3-6bfa86574a11/"
+    "pluginVersion": "2.5.1",
+    "publicPath": "/bundles/coreshopmessenger/studio/b380d0e6-86e1-44b5-84ce-2cef4ff30bef/"
   },
   "shared": [
     {
