@@ -1,5 +1,5 @@
-/*! For license information please see 424.3705fa11.js.LICENSE.txt */
-"use strict";(self["chunk_coreshopmessenger "]=self["chunk_coreshopmessenger "]||[]).push([["424"],{7857:function(e,n,t){t(2855),t(5168),t(199),t(403)},403:function(e,n,t){t(2855),t(5168)},8268:function(e,n,t){t(2855),t(5168)},3877:function(e,n,t){t(2855),t(5168),t(2696),t(5210)},7350:function(e,n,t){t(2855),t(5168),t(5210),t(2696),t(199),(0,t(323).rU)(e=>{let{token:n,css:t}=e;return{tree:t`
+/*! For license information please see 424.0cd82d6e.js.LICENSE.txt */
+"use strict";(self.chunk_coreshopmessenger=self.chunk_coreshopmessenger||[]).push([["424"],{7857:function(e,n,t){t(2855),t(5168),t(199),t(403)},403:function(e,n,t){t(2855),t(5168)},8268:function(e,n,t){t(2855),t(5168)},3877:function(e,n,t){t(2855),t(5168),t(2696),t(5210)},7350:function(e,n,t){t(2855),t(5168),t(5210),t(2696),t(199),(0,t(323).rU)(e=>{let{token:n,css:t}=e;return{tree:t`
     padding: ${n.paddingXS}px;
     background: transparent;
 
